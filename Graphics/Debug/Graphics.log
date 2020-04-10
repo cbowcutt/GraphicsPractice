@@ -1,0 +1,4 @@
+﻿  sphere.cpp
+c:\users\chris\documents\visual studio 2017\projects\graphics\graphics\sphere.cpp(87): warning C4305: '=': truncation from 'double' to 'GLfloat'
+  Graphics.vcxproj -> C:\Users\Chris\documents\visual studio 2017\Projects\Graphics\Debug\Graphics.exe
+  Graphics.vcxproj -> C:\Users\Chris\documents\visual studio 2017\Projects\Graphics\Debug\Graphics.pdb (Partial PDB)
